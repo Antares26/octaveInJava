@@ -28,8 +28,6 @@ import org.junit.Test;
 
 import java.util.Arrays;
 
-//import net.sourceforge.cobertura.coveragedata.HasBeenInstrumented;
-
 /**
  * Test {@link OctaveDouble}
  */

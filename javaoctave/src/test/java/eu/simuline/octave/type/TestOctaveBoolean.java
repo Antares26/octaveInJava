@@ -15,8 +15,6 @@
  */
 package eu.simuline.octave.type;
 
-//import net.sourceforge.cobertura.coveragedata.HasBeenInstrumented;
-
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
